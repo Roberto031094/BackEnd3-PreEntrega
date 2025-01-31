@@ -1,19 +1,8 @@
-#Poryecto e-commerce para curso de Backend II de Coderhouse
+#Poryecto e-commerce para curso de Backend III de Coderhouse
 
-## Descripción
+## Aclaraciones
+ 1. Obvie los endpoints "/mockingPets" y "/generateData" como indicó en el after.
+ 2. Dejé las variables de entorno en el archivo .env por si los necesitaba para probar. Yo igual probé un par de veces la petición en postman.
+ 3. Mi proyecto arranca con "npm run dev".
 
-Este proyecto es un e-commerce de venta de productos de tecnología. Se desarrolló en el marco del curso de Backend II de Coderhouse.
-
-## Tecnologías utilizadas
-
-- Node.js
-- Express
-- Handlebars
-- MongoDB
-- Mongoose
-
-## Instalación
-
-1. Clonar el repositorio
-2. Instalar las dependencias con `npm install`
-3. Iniciar el servidor con `npm run dev`
+Saludos.
